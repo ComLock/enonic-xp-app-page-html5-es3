@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page>
+    <display-name>HTML5 ES3 page</display-name>
+    <form/>
+    <regions>
+        <region name="main"/>
+    </regions>
+</page>
